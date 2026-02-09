@@ -97,7 +97,8 @@ npx http-server -p 8000
 
 ## Credits
 
-Design adapted from a free PSD template — please refer to the original listing or author for the PSD and usage terms.
+Design adapted from a free PSD template on [Elzero Web School](https://elzero.org/html-css-practice-template-four/) 
+please refer to the original listing or author for the PSD and usage terms.
 
 ## License
 
